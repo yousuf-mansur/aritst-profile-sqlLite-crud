@@ -48,22 +48,22 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built w
 ## Images View
 
 ### List of Artist
-<img src="images-admin-view/1.png" alt="List View" style="width:100%; max-width:600px;">
+<img src="images-admin-view/1.png" alt="List View" style="width:40%; max-width:600px;">
 
 ### Insert Artist Data
-<img src="images-admin-view/2.png" alt="Insert View" style="width:100%; max-width:600px;">
+<img src="images-admin-view/2.png" alt="Insert View" style="width:40%; max-width:600px;">
 
 ### Another Artist List
-<img src="images-admin-view/3.png" alt="List View" style="width:100%; max-width:600px;">
+<img src="images-admin-view/3.png" alt="List View" style="width:40%; max-width:600px;">
 
 ### Edit Artist Data
-<img src="images-admin-view/4.png" alt="Edit View" style="width:100%; max-width:600px;">
+<img src="images-admin-view/4.png" alt="Edit View" style="width:40%; max-width:600px;">
 
 ### After Edit List
-<img src="images-admin-view/5.png" alt="List View" style="width:100%; max-width:600px;">
+<img src="images-admin-view/5.png" alt="List View" style="width:40%; max-width:600px;">
 
 ### Edit and Delete Action
-<img src="images-admin-view/6.png" alt="Action View" style="width:100%; max-width:600px;">
+<img src="images-admin-view/6.png" alt="Action View" style="width:40%; max-width:600px;">
 
 ### Windows Version List
 <img src="images-admin-view/7.png" alt="List View" style="width:100%; max-width:600px;">
