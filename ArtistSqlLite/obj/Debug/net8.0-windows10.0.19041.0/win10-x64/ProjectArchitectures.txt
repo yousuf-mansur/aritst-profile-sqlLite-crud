@@ -1,0 +1,1 @@
+C:\Users\HP\Desktop\MauiPractice\ArtistSqlLite\ArtistSqlLite\ArtistSqlLite.csproj;x64
